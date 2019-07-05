@@ -1,4 +1,4 @@
- 
+
 /* ---------------------------------------------------
     SIDEBAR STYLE
 ----------------------------------------------------- */
@@ -10,12 +10,11 @@
     perspective: 1500px;
   }
   
-
   
   #sidebar {
     min-width: 250px;
     max-width: 250px;
-    background: #03142b;
+    background: #931445;
     color: #fff;
     transition: all 0.6s cubic-bezier(0.945, 0.020, 0.270, 0.665);
     transform-origin: bottom left;
@@ -28,12 +27,12 @@
   
   #sidebar .sidebar-header {
     padding: 20px;
-    background: #03142b;
+    background: #931445;
   }
   
   #sidebar ul.components {
     padding: 20px 0;
-    border-bottom: 1px solid #03142b;
+    border-bottom: 1px solid #931445;
   }
   
   #sidebar ul p {
@@ -47,13 +46,13 @@
     display: block;
   }
   #sidebar ul li a:hover {
-    color: #03142b;
+    color: #931445;
     background: #fff;
   }
   
   #sidebar ul li.active > a, a[aria-expanded="true"] {
     color: #fff;
-    background: #03142b;
+    background: #931445;
   }
   
   
@@ -72,7 +71,7 @@
   ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #03142b;
+    background: #931445;
   }
   
   ul.CTAs {
@@ -93,7 +92,7 @@
   }
   
   a.article, a.article:hover {
-    background: #fff !important;
+    background: #6d7fcc !important;
     color: #fff !important;
   }
   
@@ -177,4 +176,3 @@
     }
   
   }
-  
